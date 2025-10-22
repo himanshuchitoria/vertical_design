@@ -1,6 +1,4 @@
-// src/components/About.js
 import React from "react";
-
 
 const About = () => {
   return (
@@ -10,12 +8,13 @@ const About = () => {
       <div className="about-content">
         <div className="profile-photo-container">
           <img
-            src="../../public/assets/projects/homeim.jpg"
+            src="/assets/projects/homeim.jpg" // Correct public path
             alt="Profile"
             className="profile-photo"
           />
         </div>
         <div className="about-text">
+          <h2 className="about-subheading">Vertical Design Studio</h2>
           <p>
             Vertical Design Studio is a boutique design-oriented service brand dedicated to crafting clean,
             elegant, and minimal interior designs. We believe that simplicity creates timeless beauty and 
