@@ -29,8 +29,8 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "Minimalist Bedroom",
-    description: "Minimal bedroom with a padded bed, neutral palette, full window, clean-lined wardrobes, and air purifier.",
+    title: "Dining Area",
+    description: "A stylish dining area with a round table, modern chairs, pendant lighting, and textured wall panels.",
     serviceType: ["Interior Design"],
     image: "/assets/projects/5.jpg",
   },
@@ -57,8 +57,8 @@ const projectsData = [
   },
   {
     id: 9,
-    title: "Laundry & Bath Area",
-    description: "A compact laundry and bathroom combining a washing machine, wooden cabinet, glass shower with black fixtures, and marble-like tiles.",
+    title: "Master Bedroom",
+    description: "A luxurious master bedroom with a cushioned bed, vertical wall paneling, full-height wardrobe, and elegant lighting.",
     serviceType: ["Interior Design"],
     image: "/assets/projects/9.jpg",
   },
@@ -171,8 +171,8 @@ const projectsData = [
 },
 {
   id: 20,
-  title: "Nature-Inspired Indoor Pots",
-  description: "Cluster of large rustic pots with lush indoor plants adding biophilic design to the entryway area.",
+  title: "Chandelier ",
+  description: "Elegant ceiling chandelier with artistic LED elements, adding visual drama and stunning light play.",
   serviceType: [
     "Interior Design Consultation",
     "Furniture & Décor Sourcing"
@@ -252,8 +252,8 @@ const projectsData = [
 },
 {
   id: 28,
-  title: "Coffee Table & Sofa Closeup",
-  description: "Close-up of statement marble and glass coffee tables, muted green sofa, and elegant plant accent in a cozy living zone.",
+  title: "Water Body",
+  description: "Tranquil water body with luminous fountains and surrounding greenery, creating a peaceful natural element.",
   serviceType: [
     "Furniture & Décor Sourcing",
     "Interior Design Consultation"
@@ -272,8 +272,8 @@ const projectsData = [
 },
 {
   id: 30,
-  title: "Linear False Ceiling Design",
-  description: "Minimalist false ceiling with recessed lighting and geometric drop ceiling details for a contemporary touch.",
+  title: "Double Height Hall With Glass",
+  description: "Spacious double-height hall featuring large glass windows, elegant chandelier, and modern seating arrangement.",
   serviceType: [
     "Lighting & Material Design",
     "Interior Design Consultation"
@@ -282,8 +282,8 @@ const projectsData = [
 },
 {
   id: 31,
-  title: "Modern Lounge Seating",
-  description: "Chic lounge with elegant cream sofas, striking chandelier, sheer drapes, and a glossy black marble center table.",
+  title: "Chandelier ",
+  description: "Contemporary chandelier with multiple light sources and gold accents, creating a luxurious focal point in the room.",
   serviceType: [
     "Interior Design Consultation",
     "Lighting & Material Design",
@@ -323,8 +323,8 @@ const projectsData = [
 },
 {
   id: 35,
-  title: "Tall Curtains & Accent Seating",
-  description: "Luxury space featuring tall curtains, textured marble walls, plush brown sofa, and marble-topped nested tables.",
+  title: "Painting",
+  description: "Interior wall featuring a large abstract painting highlighted by focused ceiling lights, accompanied by a modern console table and decor.",
   serviceType: [
     "Space Planning",
     "Lighting & Material Design",
@@ -344,8 +344,8 @@ const projectsData = [
 },
 {
   id: 37,
-  title: "Cloud Lounge Chairs & Textures",
-  description: "Iconic round cloud chairs with geometric rug textures, paired with a distinctive wooden end table in a cozy setting.",
+  title: "TV Unit with Decor",
+  description: "Modern TV unit with built-in shelving, decorative items, and ambient lighting creating a stylish entertainment focal point.",
   serviceType: [
     "Furniture & Décor Sourcing",
     "Interior Design Consultation"
@@ -354,8 +354,8 @@ const projectsData = [
 },
 {
   id: 38,
-  title: "Living Room TV Console",
-  description: "Modern bedroom entertainment wall with floating console, flat-screen TV, and minimalist décor accessories.",
+  title: "Centring work",
+  description: "Close up photo of a worker centring on a construction site as part of project execution.",
   serviceType: [
     "Furniture & Décor Sourcing",
     "Interior Design Consultation"
