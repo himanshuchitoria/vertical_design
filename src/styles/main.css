@@ -653,4 +653,15 @@ body {
   .menu-toggle {
     display: flex;
   }
+
+}
+
+.aboutservicebutton { 
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-color: bisque;
+  margin-bottom: 50px;
+  width: 300px;
+  
 }
