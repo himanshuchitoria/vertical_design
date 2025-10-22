@@ -15,7 +15,7 @@ const Home = () => {
           Vertical Design Studio
         </h1>
         <p className="tagline" style={{fontSize: "1.5rem", fontStyle: "italic", color: "#777"}}>
-          Clean. Elegant. Minimal.
+          Timeless Luxury. Modern Elegance. Exceptional Design.
         </p>
         <img 
           src={Mainphoto}
@@ -60,3 +60,4 @@ const Home = () => {
 };
 
 export default Home;
+
