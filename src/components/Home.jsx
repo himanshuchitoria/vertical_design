@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import ProjectCard from "./ProfileCard.jsx";
 import projectsData from "../data/projects.js";
-import Mainphoto from  "../../public/assets/projects/homeim.jpg";
+import Mainphoto from  "../../public/assets/projects/logo.jpg";
 
 const Home = () => {
   const featuredProjects = projectsData.slice(0, 3);
@@ -60,4 +60,5 @@ const Home = () => {
 };
 
 export default Home;
+
 
