@@ -4,7 +4,7 @@ const projectsData = [
     title: "Modern Living Room",
     description: "A sleek, spacious living area with minimalist furniture and neutral tones.",
     serviceType: "Interior Design",
-    image: "assets/projects/homeim.jpg",
+    image: "/assets/projects/homeim.jpg",
   },
   {
     id: 1,
@@ -96,4 +96,5 @@ const projectsData = [
 ];
 
 export default projectsData;
+
 
