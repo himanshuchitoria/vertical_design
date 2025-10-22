@@ -21,10 +21,7 @@ const services = [
     name: "Project Management",
     image: "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?auto=format&fit=crop&w=500&q=60"
   },
-  {
-    name: "Project Management",
-    image: "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?auto=format&fit=crop&w=500&q=60"
-  },
+  
 ];
 
 const Services = () => {
@@ -44,3 +41,4 @@ const Services = () => {
 };
 
 export default Services;
+
