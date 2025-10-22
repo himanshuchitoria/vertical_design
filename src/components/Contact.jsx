@@ -10,7 +10,7 @@ const Contact = () => {
 
       <div className="contact-methods">
         <a
-          href="https://wa.me/1234567890"
+          href="https://wa.me/+917654641785"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-link whatsapp"
@@ -20,12 +20,14 @@ const Contact = () => {
         </a>
 
         <a
-          href="mailto:contact@verticaldesignstudio.in"
+          href="mailto:verticaldesignstudio02@gmail.com"
           className="contact-link email"
           aria-label="Email"
         >
           Email Us
         </a>
+
+        
       </div>
 
       {/* Optional contact form (can enable later)
