@@ -33,7 +33,15 @@ const Home = () => {
         <Link to="/about" className="btn btn-secondary" style={{marginTop: "1rem", display: "inline-block"}}>
           Learn More About Us
         </Link>
+
+        <br/>
+
+        <Link to="/services" className="btn btn-secondary" style={{marginTop: "1rem", display: "inline-block"}}>
+          Our Services
+        </Link>
+        
       </div>
+      
 
       {/* Featured Projects Spotlight */}
       <div className="featured-projects" style={{padding: "3rem 2rem"}}>
