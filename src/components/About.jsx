@@ -40,12 +40,11 @@ const About = () => {
   </p>
 </div>
 
-        <button onClick={() => navigate('/services')} className="aboutservicebutton">
-      Go to Services
-    </button>
+       
       </div>
     </section>
   );
 };
 
 export default About;
+
