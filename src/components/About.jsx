@@ -1,5 +1,6 @@
 import React from "react";
 import { useNavigate } from 'react-router-dom';
+import {Link} from "react-router-dom";
 
 
 
@@ -16,6 +17,9 @@ const About = () => {
             alt="Profile"
             className="profile-photo"
           />
+
+         
+        
         </div>
         <div className="about-text">
   <h2 className="about-subheading">Vertical Design Studio</h2>
@@ -40,11 +44,10 @@ const About = () => {
   </p>
 </div>
 
-       
+        
       </div>
     </section>
   );
 };
 
 export default About;
-
