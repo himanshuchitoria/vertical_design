@@ -64,8 +64,8 @@ const projectsData = [
   },
   {
     id: 10,
-    title: "Modern Bedroom Study",
-    description: "Bedroom interior with geometric wardrobe panels, cushioned bed, vertical wall detailing, and an integrated study desk.",
+    title: "Washroom area",
+    description: "A contemporary washroom setup with a floating vanity, round backlit mirror, modern fixtures, and stylish wall tiles.",
     serviceType: ["Interior Design"],
     image: "/assets/projects/10.jpg",
   },
@@ -408,3 +408,4 @@ const projectsData = [
 ];
 
 export default projectsData;
+
