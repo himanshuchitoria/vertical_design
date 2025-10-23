@@ -338,6 +338,7 @@ body {
   object-fit: cover;
   border-radius: 0; /* No rounded corners */
   box-shadow: none; /* No box shadow */
+  margin-top: -275px;
 }
 
 .about-text {
@@ -665,3 +666,4 @@ body {
   width: 300px;
   
 }
+
